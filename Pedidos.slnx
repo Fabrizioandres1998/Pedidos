@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Pedidos.API/Pedidos.API.csproj" />
+    <Project Path="src/Pedidos.Application/Pedidos.Application.csproj" />
+    <Project Path="src/Pedidos.Domain/Pedidos.Domain.csproj" />
+    <Project Path="src/Pedidos.Infrastructure/Pedidos.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Pedidos.Application.Tests/Pedidos.Application.Tests.csproj" />
+    <Project Path="tests/Pedidos.Domain.Tests/Pedidos.Domain.Tests.csproj" />
+  </Folder>
+</Solution>

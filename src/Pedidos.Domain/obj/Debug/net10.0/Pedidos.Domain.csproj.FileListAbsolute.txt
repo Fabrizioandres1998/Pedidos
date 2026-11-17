@@ -1,0 +1,11 @@
+/home/fabrizio/Documentos/Proyectos backend/Pedidos/src/Pedidos.Domain/bin/Debug/net10.0/Pedidos.Domain.deps.json
+/home/fabrizio/Documentos/Proyectos backend/Pedidos/src/Pedidos.Domain/bin/Debug/net10.0/Pedidos.Domain.dll
+/home/fabrizio/Documentos/Proyectos backend/Pedidos/src/Pedidos.Domain/bin/Debug/net10.0/Pedidos.Domain.pdb
+/home/fabrizio/Documentos/Proyectos backend/Pedidos/src/Pedidos.Domain/obj/Debug/net10.0/Pedidos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/fabrizio/Documentos/Proyectos backend/Pedidos/src/Pedidos.Domain/obj/Debug/net10.0/Pedidos.Domain.AssemblyInfoInputs.cache
+/home/fabrizio/Documentos/Proyectos backend/Pedidos/src/Pedidos.Domain/obj/Debug/net10.0/Pedidos.Domain.AssemblyInfo.cs
+/home/fabrizio/Documentos/Proyectos backend/Pedidos/src/Pedidos.Domain/obj/Debug/net10.0/Pedidos.Domain.csproj.CoreCompileInputs.cache
+/home/fabrizio/Documentos/Proyectos backend/Pedidos/src/Pedidos.Domain/obj/Debug/net10.0/Pedidos.Domain.dll
+/home/fabrizio/Documentos/Proyectos backend/Pedidos/src/Pedidos.Domain/obj/Debug/net10.0/refint/Pedidos.Domain.dll
+/home/fabrizio/Documentos/Proyectos backend/Pedidos/src/Pedidos.Domain/obj/Debug/net10.0/Pedidos.Domain.pdb
+/home/fabrizio/Documentos/Proyectos backend/Pedidos/src/Pedidos.Domain/obj/Debug/net10.0/ref/Pedidos.Domain.dll

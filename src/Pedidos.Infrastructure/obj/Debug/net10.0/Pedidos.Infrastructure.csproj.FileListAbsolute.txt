@@ -1,0 +1,17 @@
+/home/fabrizio/Documentos/Proyectos backend/Pedidos/src/Pedidos.Infrastructure/bin/Debug/net10.0/Pedidos.Infrastructure.deps.json
+/home/fabrizio/Documentos/Proyectos backend/Pedidos/src/Pedidos.Infrastructure/bin/Debug/net10.0/Pedidos.Infrastructure.dll
+/home/fabrizio/Documentos/Proyectos backend/Pedidos/src/Pedidos.Infrastructure/bin/Debug/net10.0/Pedidos.Infrastructure.pdb
+/home/fabrizio/Documentos/Proyectos backend/Pedidos/src/Pedidos.Infrastructure/bin/Debug/net10.0/Pedidos.Application.dll
+/home/fabrizio/Documentos/Proyectos backend/Pedidos/src/Pedidos.Infrastructure/bin/Debug/net10.0/Pedidos.Domain.dll
+/home/fabrizio/Documentos/Proyectos backend/Pedidos/src/Pedidos.Infrastructure/bin/Debug/net10.0/Pedidos.Application.pdb
+/home/fabrizio/Documentos/Proyectos backend/Pedidos/src/Pedidos.Infrastructure/bin/Debug/net10.0/Pedidos.Domain.pdb
+/home/fabrizio/Documentos/Proyectos backend/Pedidos/src/Pedidos.Infrastructure/obj/Debug/net10.0/Pedidos.Infrastructure.csproj.AssemblyReference.cache
+/home/fabrizio/Documentos/Proyectos backend/Pedidos/src/Pedidos.Infrastructure/obj/Debug/net10.0/Pedidos.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/fabrizio/Documentos/Proyectos backend/Pedidos/src/Pedidos.Infrastructure/obj/Debug/net10.0/Pedidos.Infrastructure.AssemblyInfoInputs.cache
+/home/fabrizio/Documentos/Proyectos backend/Pedidos/src/Pedidos.Infrastructure/obj/Debug/net10.0/Pedidos.Infrastructure.AssemblyInfo.cs
+/home/fabrizio/Documentos/Proyectos backend/Pedidos/src/Pedidos.Infrastructure/obj/Debug/net10.0/Pedidos.Infrastructure.csproj.CoreCompileInputs.cache
+/home/fabrizio/Documentos/Proyectos backend/Pedidos/src/Pedidos.Infrastructure/obj/Debug/net10.0/Pedidos..984562BF.Up2Date
+/home/fabrizio/Documentos/Proyectos backend/Pedidos/src/Pedidos.Infrastructure/obj/Debug/net10.0/Pedidos.Infrastructure.dll
+/home/fabrizio/Documentos/Proyectos backend/Pedidos/src/Pedidos.Infrastructure/obj/Debug/net10.0/refint/Pedidos.Infrastructure.dll
+/home/fabrizio/Documentos/Proyectos backend/Pedidos/src/Pedidos.Infrastructure/obj/Debug/net10.0/Pedidos.Infrastructure.pdb
+/home/fabrizio/Documentos/Proyectos backend/Pedidos/src/Pedidos.Infrastructure/obj/Debug/net10.0/ref/Pedidos.Infrastructure.dll
